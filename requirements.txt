@@ -1,0 +1,8 @@
+django
+gunicorn
+django-heroku
+schedule
+secure-smtplib
+bs4
+requests
+lxml
